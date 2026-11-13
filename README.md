@@ -185,5 +185,3 @@ so you can see changes (added/updated/deleted students) survive between sessions
 - Export a result report to a text or CSV file.
 - Add a login (admin / teacher) before the menu.
 - Add a per-subject statistics report.
-# student-management-system
-# student-management-system
