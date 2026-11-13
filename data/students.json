@@ -1,0 +1,16 @@
+[
+    {
+        "student_id": "001",
+        "name": "Asad",
+        "age": 30,
+        "email": "abc@gmail.com",
+        "department": "Cs",
+        "marks": {
+            "Math": 90.0,
+            "English": 23.0,
+            "Physics": 56.0,
+            "Chemistry": 98.0,
+            "Computer Science": 100.0
+        }
+    }
+]
